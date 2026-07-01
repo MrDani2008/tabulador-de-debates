@@ -6,3 +6,18 @@ export type { Speaker, SpeakerCreate, SpeakerUpdate } from './speaker';
 export type { Adjudicator, AdjudicatorCreate, AdjudicatorUpdate, Conflict, ConflictCreate } from './adjudicator';
 export type { Venue, VenueCreate, VenueUpdate, Room, RoomCreate, RoomUpdate } from './venue';
 export type { Round, RoundCreate, RoundUpdate, Debate, DebateCreate, DebatePositions, Ballot, BallotCreate, BallotUpdate, TeamRanking, SpeakerScore } from './round';
+export type {
+  User,
+  UserCreate,
+  UserUpdate,
+  UserRole,
+  Role,
+  RoleCreate,
+  RoleUpdate,
+  Permission,
+  AuditLog,
+  AuditLogCreate,
+  SystemSettings,
+  SystemSettingsCreate,
+  SystemSettingsUpdate,
+} from './admin';

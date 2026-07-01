@@ -31,11 +31,11 @@ After completing a milestone:
 
 Current Phase:
 
-Phase 6 — Completed
+Phase 21 — Completed
 
 Current Milestone:
 
-Phase 7
+Complete
 
 ---
 
@@ -176,7 +176,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -194,7 +194,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -214,7 +214,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -233,7 +233,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -252,7 +252,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -279,7 +279,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -300,7 +300,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -320,7 +320,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -339,7 +339,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -359,7 +359,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -379,7 +379,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -398,7 +398,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -417,7 +417,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -435,7 +435,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 
@@ -455,7 +455,7 @@ Deliverables:
 
 Status:
 
-Pending
+Completed
 
 Objectives:
 

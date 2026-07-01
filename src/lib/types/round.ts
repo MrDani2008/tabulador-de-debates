@@ -80,4 +80,5 @@ export interface BallotUpdate {
   speakerScores?: SpeakerScore[];
   comments?: string;
   status?: BallotStatus;
+  submittedAt?: string;
 }
